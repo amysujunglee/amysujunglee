@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **'Wine collection app' and 'PR renewal eligibility test app'.**
 
-- 🌱 I’m currently learning **React.js and TypeScript.**
+- 🌱 I’m currently learning **React.js, GraphQL and TypeScript.**
 
 - 💬 Ask me about **JavaScript and Salesforce Commerce Cloud (SFCC).**
 
