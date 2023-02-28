@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, TypeScript and TailwindCSS.**
 
-- 💬 Ask me about **JavaScript, commercetools and Salesforce Commerce Cloud (SFCC).**
+- 💬 Ask me about **JavaScript, React.js, commercetools and Salesforce Commerce Cloud (SFCC).**
 
 - 📫 How to reach me **amy.sujunglee@gmail.com** or **<a href="https://www.linkedin.com/in/amysujunglee/" target="_blank" rel="noreferrer">Linkedin</a>**
 
