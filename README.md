@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amy Lee</h1>
-<h3 align="center">A frontend developer / SFCC developer with 3+ years of work experience</h3>
+<h1 align="center">Hi 👋, I'm Amy Lee!</h1>
+<h3 align="center">A frontend developer / SFCC developer with 4+ years of work experience</h3>
 
 - 🔭 I’m currently working on **'Wine collection app' and 'PR renewal eligibility test app'.**
 
