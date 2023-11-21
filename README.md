@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amy Lee.</h1>
-<h3 align="center">A frontend developer / SFCC developer with 4+ years of work experience</h3>
+<h3 align="center">A frontend developer with 4+ years of work experience</h3>
 
 - 🔭 I’m currently working on **'Wine collection app' and 'PR renewal eligibility test app'.**
 
-- 🌱 I’m currently learning **React.js, TypeScript and TailwindCSS.**
+- 🌱 I’m currently learning **React.js, TypeScript and Next.js.**
 
-- 💬 Ask me about **JavaScript, React.js, commercetools and Salesforce Commerce Cloud (SFCC).**
+- 💬 Ask me about **React.js, TypeScript, commercetools and Salesforce Commerce Cloud (SFCC).**
 
 - 📫 How to reach me **amy.sujunglee@gmail.com** or **<a href="https://www.linkedin.com/in/amysujunglee/" target="_blank" rel="noreferrer">Linkedin</a>**
 
