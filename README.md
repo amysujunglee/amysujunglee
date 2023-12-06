@@ -15,4 +15,4 @@
 <h3 align="left">eCommerce platforms:</h3>
 <p>commercetools, Salesforce Commerce Cloud (SFCC), Episerver, Sitecore</p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amysujunglee&show_icons=true&locale=en&layout=compact" alt="amysujunglee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amysujunglee&show_icons=true&locale=en&layout=compact" alt="" /></p>
