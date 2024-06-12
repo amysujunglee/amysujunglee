@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amy Lee</h1>
 <h3 align="center">A frontend developer with 4+ years of work experience</h3>
 
-- 🔭 I’m currently working on **'Wine collection app' and 'PR renewal eligibility test app'.**
+- 🔭 I’m currently working on **'Find Daycare in BC, Canada'.**
 
-- 🌱 I’m currently learning **React.js, TypeScript and Next.js.**
+- 🌱 I’m currently learning **Next.js and .NET**
 
 - 💬 Ask me about **React.js, TypeScript, commercetools and Salesforce Commerce Cloud (SFCC).**
 
