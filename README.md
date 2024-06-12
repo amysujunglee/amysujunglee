@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **'Find Daycare in BC, Canada'.**
 
-- 🌱 I’m currently learning **Next.js and .NET**
+- 🌱 I’m currently learning **Next.js and Node.js**
 
 - 💬 Ask me about **React.js, TypeScript, commercetools and Salesforce Commerce Cloud (SFCC).**
 
